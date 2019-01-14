@@ -13,7 +13,7 @@ It's a well designed tab, give you a commanding view of the market. Take a peek:
 <p align="center">
     <img 
         width="400px"
-        src="https://github.com/Blockmodo/art/blob/master/extensions/trx_tab_screenshot.png"
+        src="https://github.com/Blockmodo/art/blob/master/extensions/neo_tab_screenshot.png"
     />
 </p>
 
